@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\B2C4\B2C4\bin\Debug\net10.0-windows\B2C4.exe
+C:\Users\Administrator\source\repos\B2C4\B2C4\bin\Debug\net10.0-windows\B2C4.deps.json
+C:\Users\Administrator\source\repos\B2C4\B2C4\bin\Debug\net10.0-windows\B2C4.runtimeconfig.json
+C:\Users\Administrator\source\repos\B2C4\B2C4\bin\Debug\net10.0-windows\B2C4.dll
+C:\Users\Administrator\source\repos\B2C4\B2C4\bin\Debug\net10.0-windows\B2C4.pdb
+C:\Users\Administrator\source\repos\B2C4\B2C4\obj\Debug\net10.0-windows\B2C4.Form1.resources
+C:\Users\Administrator\source\repos\B2C4\B2C4\obj\Debug\net10.0-windows\B2C4.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\B2C4\B2C4\obj\Debug\net10.0-windows\B2C4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\B2C4\B2C4\obj\Debug\net10.0-windows\B2C4.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\B2C4\B2C4\obj\Debug\net10.0-windows\B2C4.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\B2C4\B2C4\obj\Debug\net10.0-windows\B2C4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\B2C4\B2C4\obj\Debug\net10.0-windows\B2C4.dll
+C:\Users\Administrator\source\repos\B2C4\B2C4\obj\Debug\net10.0-windows\refint\B2C4.dll
+C:\Users\Administrator\source\repos\B2C4\B2C4\obj\Debug\net10.0-windows\B2C4.pdb
+C:\Users\Administrator\source\repos\B2C4\B2C4\obj\Debug\net10.0-windows\B2C4.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\B2C4\B2C4\obj\Debug\net10.0-windows\ref\B2C4.dll
+C:\Users\Administrator\source\repos\B2C4\B2C4\obj\Debug\net10.0-windows\B2C4.csproj.Up2Date
